@@ -78,6 +78,15 @@
 		background-position: top left, center center;
 	}
 
+
+/* proiecte */
+
+	#proiecte {
+		background: url('images/overlay.png'), url('../../images/proiecte.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
 /* Contact */
 
 	#contact {
